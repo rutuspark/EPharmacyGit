@@ -166,4 +166,3 @@ export default class AddProductScreen extends Component {
         </div>
         );
     }
-}
