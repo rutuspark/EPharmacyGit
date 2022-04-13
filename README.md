@@ -1,4 +1,4 @@
-# EPharmacyGit
+# EPharmacyStore
 
 E-Pharmacy Store is a B2C website specially designed for an anonymous user and registered customer.
 Techmologies used are sprinboot as backend, react.js as frontend and mysql as database.
